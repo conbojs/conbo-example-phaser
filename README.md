@@ -5,6 +5,8 @@ As well as being a great way to create applications in its own right, the power 
 
 This example shows how you can leverage ConboJS features, including models, dependency injection and auto instantiation, to give structure to your Phaser 3 games, connect them to web services and other data sources, and add them to a web page using just a single HTML tag.
 
+This example uses TypeScript, but the same principles could be used in an ES2015 or standard JavaScript project.
+
 Quick start
 -----------
 
